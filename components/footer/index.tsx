@@ -2,9 +2,9 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div>
-      <h1>footer</h1>
-    </div>
+    <footer>
+      <h1>create for Israel Tineo</h1>
+    </footer>
   )
 }
 
